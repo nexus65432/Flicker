@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flicker Photos</string>
+
+    <string name="actionbar_title">Flicker Photos</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search Flicker</string>
+    <string name="error_message">"No results available"</string>
+
+    <string name="loading_images">Loading...</string>
+
+</resources>

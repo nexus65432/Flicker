@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="android:editTextColor">@android:color/white</item>
+    </style>
+
+    <!-- Theme for Splash Screen -->
+    <style name="splashScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="TTListView">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:overScrollMode">never</item>
+        <item name="android:divider">@color/color_black</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:clipToPadding">false</item>
+    </style>
+
+</resources>

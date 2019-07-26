@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="flicker_image_height">110dp</dimen>
+    <dimen name="flicker_image_width">120dp</dimen>
+
+    <dimen name="flicker_title_text">20dp</dimen>
+
+    <dimen name="margin10">10dp</dimen>
+</resources>
